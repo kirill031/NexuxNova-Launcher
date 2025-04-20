@@ -3022,6 +3022,10 @@ input:checked + .toggleSwitchSlider:before {
     right: 95px;
     text-align: right;
     -webkit-user-select: initial;
+    border: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Social media icon content container. */
@@ -3750,6 +3754,7 @@ input:checked + .toggleSwitchSlider:before {
     border: 1px solid #fff;
     height: 50px;
     width: 50px;
+    border-radius: 0px 15px 15px 0px;
 }
 
 /* Content container for the server listing's details. */

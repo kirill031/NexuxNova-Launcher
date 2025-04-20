@@ -1,13 +1,13 @@
 {
   "name": "nexuxnova-launcher",
-  "version": "1.0.10",
+  "version": "1.0.20",
   "productName": "NexuxNova Launcher",
   "description": "",
   "author": "kill031",
   "license": "ISC",
   "homepage": "https://www.nexuxnova.it",
   "bugs": {
-    "url": "https://discord.nexuxnova.it"
+    "url": "https://dsc.nexuxnova.it"
   },
   "private": true,
   "main": "index.js",
