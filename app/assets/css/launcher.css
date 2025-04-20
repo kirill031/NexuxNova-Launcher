@@ -3026,6 +3026,7 @@ input:checked + .toggleSwitchSlider:before {
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 10px;
 }
 
 /* Social media icon content container. */
@@ -3754,7 +3755,7 @@ input:checked + .toggleSwitchSlider:before {
     border: 1px solid #fff;
     height: 50px;
     width: 50px;
-    border-radius: 0px 15px 15px 0px;
+    border-radius: 15px 0px 0px 15px;
 }
 
 /* Content container for the server listing's details. */
